@@ -12,7 +12,7 @@ Este projeto é uma API Spring Boot desenvolvida para o desafio da DIO, focada e
 
 ## 🛠️ Tecnologias Utilizadas
 - **Java 21**
-- **Spring Boot 3.x**
+- **Spring Boot.3.x**
 - **Maven**
 - **PowerShell / Curl** (para testes de integração)
 
