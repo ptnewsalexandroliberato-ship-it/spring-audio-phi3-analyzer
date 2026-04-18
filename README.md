@@ -19,6 +19,7 @@ Este projeto é uma API Spring Boot desenvolvida para o desafio da DIO, focada e
 ## 🚀 Como Executar o Projeto
 
 ### 1. Clonar o Repositório
+
 ```bash
 git clone [https://github.com/ptnewsalexandroliberato-ship-it/Mola-Audio-Analisador-PhI3.git](https://github.com/ptnewsalexandroliberato-ship-it/Mola-Audio-Analisador-PhI3.git)
 cd Mola-Audio-Analisador-PhI3
